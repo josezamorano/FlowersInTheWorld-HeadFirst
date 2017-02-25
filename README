@@ -1,0 +1,7 @@
+This project contains the source code with the flowers section of the 
+Beehive Simulator project from the book C# Head First. 
+The behavior of the flowers has been extended and here they are born,
+grow and are removed, giving space to new ones. The speed of growth 
+can be modified as well as the number of the flowers in the field.
+Hope you can enjoy the code as much as I did developing this extended
+version of the popular simulator. Thanks for all!. 
